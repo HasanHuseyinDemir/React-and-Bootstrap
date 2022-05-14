@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card-image {
+  height: 9rem;
+}
+.head {
+  padding: 24px;
+  font-weight: 300;
+  text-shadow: 0 3px 3px rgba(128, 128, 128, 0.651);
+}
